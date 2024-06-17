@@ -6,7 +6,7 @@
 # reversi
 [ [English](https://github.com/y-tetsu/reversi/blob/master/README.en.md) | [日本語](https://github.com/y-tetsu/reversi/blob/master/README.md)]<br>
 **reversi**はリバーシ(オセロ)のPython用ライブラリです。<br>
-手軽にリバーシAIをプログラミングして、アプリケーションが作れます。<br>
+手軽にリバーシAIをプログラミングして、アプリケーションが作れます。
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 [![unittest](https://github.com/y-tetsu/reversi/actions/workflows/unittest.yml/badge.svg)](https://github.com/y-tetsu/reversi/actions/workflows/unittest.yml)
 <br>
@@ -1644,5 +1644,5 @@ C:\Users\{あなたのユーザ名}\AppData\Local\Programs\Python\Python37\Scrip
 
 ---
 ## 経過
-6/17(月)
--角だけを重点的に取る”corner"関数についてサイトを参考に実装、シミュレーションまでを試みたが、エラーが発生。次回はシミュレーションの成功、および自作AIの導入まで取り組みたい.
+6/17(月)<br>
+角だけを重点的に取る”corner"関数についてサイトを参考に実装、シミュレーションまでを試みたが、エラーが発生。次回はシミュレーションの成功、および自作AIの導入まで取り組みたい.
